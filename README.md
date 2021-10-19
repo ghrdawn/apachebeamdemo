@@ -3,6 +3,8 @@ This project resolves the initial setup struggle if you decide to go with Apache
 
 The input file color-code.json is placed inside "input" folder of the project. And processed output will be generated inside "output" folder after the execution of the project as a Java Application.
 
+[Download and Place the WinUtils.exe at C:\hadoop_home\bin location if you are running the project from Windows]
+
 **Versions used:**
 - Beam : 2.33.0
 - Spark : 2.4.8
