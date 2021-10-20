@@ -10,5 +10,6 @@ The input file color-code.json is placed inside "input" folder of the project. A
 - Spark : 2.4.8
 
 A code-hack is added inside ColorCodeProcessorTask.java to keep the Spark UI alive after the execution is finished. You can access the Spark UI at default location http://localhost:4040.
+[You just need to run the project as a Java Application]
 
 ![Spark UI](https://github.com/ghrdawn/apachebeamdemo/blob/main/BeamDemo/img/sparkui.PNG?raw=true)
